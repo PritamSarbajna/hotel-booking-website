@@ -1,0 +1,12 @@
+.banner-hero {
+    background-image: url('{% static "hero-section.jpg" %}');
+    background: #000;
+}
+
+.navbar .sub-container .ull {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  list-style: none
+}
