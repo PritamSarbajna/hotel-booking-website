@@ -3,7 +3,7 @@
 ## About :
 
 - This is a django web application for booking hotels.
-- Bootstrap used for frontend.
+- Bootstrap used for frontend. 
 - Django used as backend.
 - It has authentication system.
 
